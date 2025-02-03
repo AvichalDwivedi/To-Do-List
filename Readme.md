@@ -1,6 +1,6 @@
 # Project: To-Do List Using Local Storage
 
-
+![image alt](https://github.com/AvichalDwivedi/To-Do-List/blob/242cc7a114c7149388c249a119024aa77e859ad1/To%20Do%20List%20LocalStorage.png)
 # Introduction
 # A To-Do List is a simple application that allows users to add tasks, view them, and remove completed ones. This project utilizes HTML, CSS, and JavaScript to create a functional to-do list with Local Storage for data persistence.
 
